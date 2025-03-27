@@ -1,1 +1,2 @@
-# Secure-Face-De-Identification-with-GANs-and-Noise-Injection
+# Secure-Face-De-Identification-with-GANs-and-Noise-Injection-
+The Project Secure Face De-Identification with GANs and Noise Injection anonymizes facial images by using GANs to generate realistic but non-identifiable faces while preserving expressions and attributes. Noise injection enhances privacy, making re-identification difficult while ensuring usability in surveillance, social media, and AI applications.
